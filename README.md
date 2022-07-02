@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @izzy-nexusartemis
-- 👀 I’m interested in web development.
+- 👀 I’m interested in full-stack web development.
 - 💞️ I’m looking to collaborate on projects that solve problems.
 - 📫 How to reach me nexusartemisweb@gmail.com
 
